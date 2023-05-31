@@ -18,9 +18,6 @@
   <lib desc="#BFH-Praktika" name="9"/>
   <lib desc="#Input/Output-Extra" name="10"/>
   <lib desc="#Soc" name="11"/>
-  <lib desc="file#8bitMultiplier.circ" name="12"/>
-  <lib desc="file#16bitAdder.circ" name="13"/>
-  <lib desc="file#8bitBoothMultiplier.circ" name="14"/>
   <main name="main"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
@@ -330,9 +327,6 @@
       <a name="label" val="B_2_2"/>
       <a name="width" val="8"/>
     </comp>
-    <comp lib="12" loc="(740,970)" name="Mult"/>
-    <comp lib="13" loc="(740,1080)" name="Add"/>
-    <comp lib="14" loc="(740,850)" name="BoothMult"/>
     <comp lib="8" loc="(520,45)" name="Text">
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="Please don't change places of inputs and outputs"/>
