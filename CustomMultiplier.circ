@@ -84,7 +84,7 @@
     <comp lib="0" loc="(630,300)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="C"/>
-      <a name="width" val="16"/>
+      <a name="width" val="8"/>
     </comp>
     <comp lib="0" loc="(630,420)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -95,7 +95,7 @@
       <a name="facing" val="west"/>
       <a name="label" val="Result"/>
       <a name="output" val="true"/>
-      <a name="width" val="16"/>
+      <a name="width" val="8"/>
     </comp>
     <comp lib="0" loc="(750,420)" name="Pin">
       <a name="appearance" val="classic"/>
